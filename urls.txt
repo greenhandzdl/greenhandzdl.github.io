@@ -1,0 +1,13 @@
+https://greenhandzdl.github.io/selinux-from-use-to-prohibition.html/
+https://greenhandzdl.github.io/how-to-install-gh-in-a-version-not-supported-by-termux.html/
+https://greenhandzdl.github.io/npm-advanced-usage.html/
+https://greenhandzdl.github.io/how-to-root-your-phone.html/
+https://greenhandzdl.github.io/how-to-quickly-build-linux-on-mobile-phones.html/
+https://greenhandzdl.github.io/linux-utilities.html/
+https://greenhandzdl.github.io/termux-creates-a-wordpress-website.html/
+https://greenhandzdl.github.io/with-notes.html/
+https://greenhandzdl.github.io/hexogitbackup-error.html/
+https://greenhandzdl.github.io/termux-simple-site-construction.html/
+https://greenhandzdl.github.io/about-wine-guidance.html/
+https://greenhandzdl.github.io/install-minecraft-on-centos8.html/
+https://greenhandzdl.github.io/false-news-difficulty.html/

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /config/
+Disallow: /images/
+Disallow: /search/
+Disallow: /page/
+Disallow: /live2dw/
+Disallow: /assets/
+Disallow: /lib/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /404.html
