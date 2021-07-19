@@ -197,7 +197,7 @@
 <h1 id="Wine是什么"><a href="#Wine是什么" class="headerlink" title="Wine是什么"></a>Wine是什么</h1><p>Wine(WineIsNotanEmulator)[即Wine不是一个模拟器]是一个在Linux和UNIX之上的,Windows3.x和WindowsAPIs的实现。注意，Wine不是Windows模拟器，而是运用API转换技术实做出Linux对应到Windows相对应的函数来调用DLL以运行Windows程序。Wine可以工作在绝大多数的UNIX版本下,包括Linux,FreeBSD,和Solaris。另外，也有适用于MacOSX的Wine程序。Wine不需要MicrosoftWindows,因为这是一个完全由百分之百的免费代码组成的。如果有可利用的副本的话，它也可以随意地使用本地系统的DLLs。Wine的发布是完全公开源代码的，并且是免费发行的。（基于LGPL发布：GNU宽通用公共许可证）<br>Wine虽然可运行大部份视窗程序，但只能有限度地运行以DirectX所编写的游戏，亦即是很多游戏不能在其运行。<br>Wine的延伸计划主要有两大产品，一个是CodeWeavers开发的CrossOver，另一个是TransGamingTechnologies的Cedega。<br>CrossOverOffice以提供应用软件支持为主，Cedega则锁定在游戏娱乐方面。CodeWeavers和Wine计划一直保有密切的合作关系。CodeWeavers亦雇用了AlexandreJuillard以将CrossOverOffice的源代码回馈给Wine。在2005年6月22日，CodeWeavers宣布支持基于英特尔处理器的苹果电脑。<br>Transgaming的Cedega则是商业软件，以Wine为基础，在Wine更换授权后停止使用Wine的源代码，虽然有Cedega提供源代码下载（经由CVS），但在不包含专利技术的情形下，功能与可用性都不高。</p>
 <span id="more"></span>
 
-    <div id="aplayer-fviHFdUQ" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-tTiAKCxw" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="29950374" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
     ></div>
 <h2 id="如何下载wine"><a href="#如何下载wine" class="headerlink" title="如何下载wine"></a>如何下载wine</h2><h3 id="去wiki下载压缩包"><a href="#去wiki下载压缩包" class="headerlink" title="去wiki下载压缩包"></a>去wiki下载压缩包</h3><h3 id="下载源安装-极不推荐"><a href="#下载源安装-极不推荐" class="headerlink" title="下载源安装(极不推荐)"></a>下载源安装(极不推荐)</h3><p>该方法可能会出现依赖缺失，使用感不佳(当然，kali等Debian系可以忽略，因为下载源较其他下载源软件版本更加新，而且依赖一般源里补得很全)<br>笔者出现问题:该exe不是可执行文件(该提示出现于centos8软件源下载后运行<code>wine PCQQ2020.exe</code>该提示有可能不是这样)<br>解决方案:1,进入wine源文件处手动make,自行补全依赖,然后再install.2,也可以删除该wine,然后自行去wiki手动下载最新压缩包make.</p>
@@ -544,20 +544,5 @@ twikoo.init({
 <!-- Extra support for third-party plguins  -->
 
 
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"scale":0.7,"hHeadPos":0.5,"vHeadPos":0.618,"jsonPath":"/live2dw/assets/z16.model.json"},"display":{"superSample":2,"width":150,"height":200,"position":"right","hOffset":0,"vOffset":-20},"mobile":{"show":true,"scale":0.5},"react":{"opacityDefault":0.6,"opacityOnHover":0.4}});</script></body>
+    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"scale":0.7,"hHeadPos":0.5,"vHeadPos":0.618,"jsonPath":"/live2dw/assets/z16.model.json"},"display":{"superSample":2,"width":150,"height":200,"position":"right","hOffset":0,"vOffset":-20},"mobile":{"show":true,"scale":0.5},"react":{"opacityDefault":0.6,"opacityOnHover":0.4}});</script></body>
 </html>

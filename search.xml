@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>SElinux从使用到禁止</title>
-    <url>/selinux-from-use-to-prohibition.html/</url>
+    <title>如何root你的手机</title>
+    <url>/how-to-root-your-phone.html/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>Linux</category>
-        <category>SElinux</category>
+        <category>Android</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
-        <tag>Centos8(Stream)</tag>
+        <tag>Android</tag>
+        <tag>Root</tag>
+        <tag>转载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔记</title>
+    <url>/with-notes.html/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>随笔记</category>
+      </categories>
+      <tags>
+        <tag>大杂烩</tag>
+        <tag>随笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -28,33 +40,6 @@
       </tags>
   </entry>
   <entry>
-    <title>npm高级用法</title>
-    <url>/npm-advanced-usage.html/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>nodejs</category>
-        <category>plugins</category>
-      </categories>
-      <tags>
-        <tag>plugins</tag>
-        <tag>npm</tag>
-        <tag>nodejs</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何root你的手机</title>
-    <url>/how-to-root-your-phone.html/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Android</category>
-      </categories>
-      <tags>
-        <tag>Android</tag>
-        <tag>Root</tag>
-        <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何在手机快速搭建Linux</title>
     <url>/how-to-quickly-build-linux-on-mobile-phones.html/</url>
     <content><![CDATA[]]></content>
@@ -66,6 +51,33 @@
         <tag>Android</tag>
         <tag>Termux</tag>
         <tag>Terminal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SElinux从使用到禁止</title>
+    <url>/selinux-from-use-to-prohibition.html/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Linux</category>
+        <category>SElinux</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Centos8(Stream)</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于wine指导</title>
+    <url>/about-wine-guidance.html/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Linux</category>
+        <category>Wine</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Wine</tag>
+        <tag>指导</tag>
       </tags>
   </entry>
   <entry>
@@ -88,46 +100,17 @@
       </tags>
   </entry>
   <entry>
-    <title>termux创建wordpress网站</title>
-    <url>/termux-creates-a-wordpress-website.html/</url>
+    <title>npm高级用法</title>
+    <url>/npm-advanced-usage.html/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>建站</category>
-        <category>wordpress</category>
-      </categories>
-      <tags>
-        <tag>建站</tag>
-        <tag>动态网站</tag>
-        <tag>数据库</tag>
-        <tag>wordpress</tag>
-        <tag>termux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔记</title>
-    <url>/with-notes.html/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>随笔记</category>
-      </categories>
-      <tags>
-        <tag>大杂烩</tag>
-        <tag>随笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexogitbackup报错</title>
-    <url>/hexogitbackup-error.html/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>建站</category>
-        <category>hexo</category>
+        <category>nodejs</category>
         <category>plugins</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>插件</tag>
-        <tag>报错</tag>
+        <tag>plugins</tag>
+        <tag>npm</tag>
+        <tag>nodejs</tag>
       </tags>
   </entry>
   <entry>
@@ -146,17 +129,19 @@
       </tags>
   </entry>
   <entry>
-    <title>关于wine指导</title>
-    <url>/about-wine-guidance.html/</url>
+    <title>termux创建wordpress网站</title>
+    <url>/termux-creates-a-wordpress-website.html/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>Linux</category>
-        <category>Wine</category>
+        <category>建站</category>
+        <category>wordpress</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
-        <tag>Wine</tag>
-        <tag>指导</tag>
+        <tag>建站</tag>
+        <tag>动态网站</tag>
+        <tag>数据库</tag>
+        <tag>wordpress</tag>
+        <tag>termux</tag>
       </tags>
   </entry>
   <entry>
@@ -184,6 +169,21 @@
       <tags>
         <tag>plague inc(手机Android)</tag>
         <tag>攻略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexogitbackup报错</title>
+    <url>/hexogitbackup-error.html/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>建站</category>
+        <category>hexo</category>
+        <category>plugins</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>插件</tag>
+        <tag>报错</tag>
       </tags>
   </entry>
 </search>
